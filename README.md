@@ -3,4 +3,4 @@ Field evaluation of a low-cost, capacitive, and a commercial soil moisture senso
 
 
 
-# PROJECT IS BEING TESTED -- WILL BE UP IN A FEW WEEKS
+# PROJECT IS in PROGRESS -- WILL BE UP IN ONCE COMPLETE
