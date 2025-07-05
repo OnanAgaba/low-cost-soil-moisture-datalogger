@@ -4,3 +4,7 @@ Field evaluation of a low-cost, capacitive, and a commercial soil moisture senso
 
 
 # PROJECT IS in PROGRESS -- WILL BE UP ONCE COMPLETE
+
+Just a glimpse!!!
+![circuit_image (13) - Copy](https://github.com/user-attachments/assets/da0e9f70-453b-468c-ab91-7ee67164c96b)
+[link](https://app.cirkitdesigner.com/project/eafbcebb-62fe-410c-aeb7-992e7dfc465a)
