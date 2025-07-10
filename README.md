@@ -5,6 +5,7 @@ This repository provides resources for the project **"Comparative Performance of
 1. **Do-It-Yourself Guide**
    - Step-by-step instructions to replicate soil moisture sensor system  
    - File: *"low-cost soil moisture datalogger guide"*
+   - File: [`low-cost-soil-moisture-datalogger.ino`](./low-cost-soil-moisture-datalogger.ino)
 
 2. **Arduino Code**
    - Source code for operating the system  
