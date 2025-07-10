@@ -11,8 +11,7 @@ This repository provides resources for the project **"Comparative Performance of
    - File: *[`low-cost-soil-moisture-datalogger.ino`](./low-cost-soil-moisture-datalogger.ino)*
 
 3. **Connection Diagrams and Results**
-   - Visual diagrams for wiring and connecting sensors  
-   - Initial findings and data from the sensor comparisons
+   - Visual diagrams and Initial findings from the sensor comparisons
    - File: *[`low-cost-soil-moisture-datalogger.ino`](./low-cost-soil-moisture-datalogger.ino)*
 
 ---
