@@ -17,7 +17,5 @@ This repository provides resources for the project **"Comparative Performance of
 
 ---
 
-For more information contact:  
-**Onan Agaba**  
-📧 onanagaba@gmail.com
+*For more information or questions, contact: [Onan Agaba](mailto:onanagaba@gmail.com)*
 
