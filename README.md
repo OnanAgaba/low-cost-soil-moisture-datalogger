@@ -8,12 +8,12 @@ This repository provides resources for the project **"Comparative Performance of
 
 2. **Arduino Code**
    - Source code for operating the system  
-   - File: `low-cost-soil-moisture-datalogger.ino`
+   - File: *[`low-cost-soil-moisture-datalogger.ino`](./low-cost-soil-moisture-datalogger.ino)*
 
 3. **Connection Diagrams and Results**
    - Visual diagrams for wiring and connecting sensors  
    - Initial findings and data from the sensor comparisons
-   - File: *"low-cost soil moisture datalogger brief paper"*
+   - File: *[`low-cost-soil-moisture-datalogger.ino`](./low-cost-soil-moisture-datalogger.ino)*
 
 ---
 
