@@ -2,17 +2,19 @@ This repository provides resources for the project **"Comparative Performance of
 
 ## Repository Contents
 
-1. **Do-It-Yourself Guide**
-   - Step-by-step instructions to replicate soil moisture sensor system  
+1. **Prototype Design and Initial Results**
+   - Visual diagrams and Initial findings from the sensor comparisons.
+   - File: *[`low-cost-soil-moisture-datalogger-brief-paper.pdf`](./low-cost-soil-moisture-datalogger-brief-paper.pdf)*
+
+2. **Do-It-Yourself Guide**
+   - Step-by-step instructions to replicate the soil moisture sensor system.  
    - File: *[`low-cost-soil-moisture-datalogger-guide.pdf`](./low-cost-soil-moisture-datalogger-guide.pdf)*
 
-2. **Arduino Code**
-   - Source code for operating the system  
+3. **Arduino Code**
+   - The main program that runs the full soil moisture sensor system.  
    - File: *[`low-cost-soil-moisture-datalogger.ino`](./low-cost-soil-moisture-datalogger.ino)*
-
-3. **Connection Diagrams and Results**
-   - Visual diagrams and Initial findings from the sensor comparisons
-   - File: *[`low-cost-soil-moisture-datalogger-brief-paper.pdf`](./low-cost-soil-moisture-datalogger-brief-paper.pdf)*
+   - Additional sketches to test and troubleshoot each sensor individually.
+   - Folder: [`individual-sensor-test-codes`](./individual-sensor-test-codes/)
 
 ---
 
