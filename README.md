@@ -2,9 +2,11 @@ This repository provides resources for the project **"Comparative Performance of
 
 ## Repository Contents
 
-1. **Prototype Design and Initial Results**
+1. **Prototype Design and Raw Sensor Data**
    - Visual diagrams and Initial findings from the sensor comparisons.
    - File: *[`low-cost-soil-moisture-datalogger-brief-paper.pdf`](./low-cost-soil-moisture-datalogger-brief-paper.pdf)*
+   - Raw data from sensors
+   - File: *[`soillog.csv`](./soillog.csv)*
 
 2. **Do-It-Yourself Guide**
    - Step-by-step instructions to replicate the soil moisture sensor system.  
