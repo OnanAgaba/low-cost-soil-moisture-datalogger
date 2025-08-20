@@ -1,5 +1,5 @@
 This repository provides resources for the project **"Comparative Performance of Four Soil Moisture Sensors in Arid Conditions: Low-Cost and Commercial Options"** by Onan Agaba, Mulugeta Weldegebriel Hagos, Fatima-Zahra Kasmi, and Elad Levintal.
-
+     
 ## Repository Contents
 
 1. **Prototype Design and Raw Sensor Data**
